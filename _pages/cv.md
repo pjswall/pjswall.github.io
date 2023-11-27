@@ -1,11 +1,17 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 6
+cv_pdf: my_iiit_cv.pdf
+description: Thank you for visiting my page! You can download my CV from here.
 ---
+
+## Prateek Jaiswal's Curriculum Vitae
+
+Welcome to my Curriculum Vitae (CV) page. You can find my detailed CV in PDF format for download using the link below:
+
+[Download CV](my_iiit_cv.pdf)
+
+Feel free to reach out if you have any questions or would like to discuss any opportunities. Thank you for your interest!

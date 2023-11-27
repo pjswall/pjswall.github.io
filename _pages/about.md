@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>IIIT Hyderabad</p>
+    <p>Gachibowli, 500032</p>
+    <p>Telangana, India</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, I'm Prateek Jaiswal, a dedicated MS by research student at [IIIT Hyderabad](https://www.iiit.ac.in/) specializing in Computer Vision and Biometrics, under the guidance of Professor [Dr. Anoop M Namboodiri](https://faculty.iiit.ac.in/~anoop/). My research revolves around the fascinating intersection of computer vision and biometrics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I've had the privilege of collaborating on significant projects with esteemed organizations. I contributed to the Manual VIDEO KYC and SDK benchmarking initiatives for [UIDAI](https://uidai.gov.in/), a critical player in India's digital identity landscape. Furthermore, I engaged in an exciting collaboration with Michigan State University, USA, on a Face Demorphing project, highlighting the global reach of my research endeavors.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my research commitments, I've also served as a Teaching Assistant and Moderator for the Summer of Computer Vision program at IIIT Hyderabad, fostering the next generation of computer vision enthusiasts.
+
+Before embarking on my research journey in Hyderabad, I completed my Bachelor of Engineering from [RGPV University](https://www.rgpv.ac.in/) in Bhopal, where my passion for computer science first ignited.
+
+Beyond the world of computer science, I am an avid sports enthusiast, finding joy in activities such as running and trekking. One of my proudest achievements was conquering the 70Km-long [Kedarnath](https://en.wikipedia.org/wiki/Kedarnath_Temple) trek, a testament to my determination and love for outdoor adventures.
+
+My love for exploring extends beyond physical challenges; I'm an avid traveler who revels in discovering the beauty of nature and immersing myself in diverse cultures. To facilitate meaningful connections with people from different backgrounds, I dedicate my spare time to learning various languages. Feel free to connect with me to discuss exciting research opportunities, share travel stories, or engage in conversations about language and culture!
