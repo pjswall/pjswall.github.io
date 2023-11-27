@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 6
+nav_order: 4
 cv_pdf: my_iiit_cv.pdf
 description: Thank you for visiting my page! You can download my CV from here.
 ---
