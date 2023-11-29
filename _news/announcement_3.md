@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-10-8
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+We presented our paper on Face Demorphing in [IJCB 2022](https://ijcb2022.vfairs.com/) in Abu Dhabi, UAE.
