@@ -2,57 +2,54 @@
   type: map
   contents:
     - name: Name
-      value: Lucas Emanuel Resck
+      value: Prateek Jaiswal
     - name: Position
-      value: MSc student in Mathematical Modeling
-    - name: School
-      value: Fundação Getulio Vargas
+      value: MS student in Computer Science
+    - name: Institute
+      value: IIIT Hyderabad, India
     - name: Place
-      value: Rio de Janeiro, Brazil
+      value: Gachibowli, Hyderabad, India
     - name: Email
-      value: <a href="mailto:lucas.resck@fgv.br">lucas.resck@fgv.br</a>
+      value: <a href="mailto:lucas.resck@fgv.br">prateekj9521@gmail.com</a>
     - name: Research interests
-      value: <b>Machine Learning</b> (ML), <b>Natural Language Processing</b> (NLP), and <b>Explainable Artificial Intelligence</b> (XAI). I am particularly interested in improving the degree of explainability of ML and NLP models.
+      value: <b>Machine Learning</b> (ML), <b>Computer Vision</b> (CV), and <b>Explainable Artificial Intelligence</b> (XAI). I am particularly interested in improving the quality of Biometrics System.
 
 - title: Education
   type: time_table
   contents:
-    - title: MSc, Mathematical Modeling
-      institution: Fundação Getulio Vargas
-      year: 2022 - present
+    - title: MS, Computer Vision and Biometrics
+      institution: IIIT Hyderabad, India
+      year: 2021 - present
       description:
-        - "Advisor: Jorge Poco"
+        - "Advisor: Anoop M Namboodiri"
 
-    - title: BSc, Applied Mathematics
-      institution: Fundação Getulio Vargas
-      year: 2018 - 2021
+    - title: BE, Computer Science
+      institution: Oriental Institute of Science and Technology, Bhopal
+      year: 2016 - 2020
       description:
-        - "GPA: 9.66/10 (lowest passing grade of 6)"
-        - "Thesis: Inferring and Explaining Potential Citations to Binding Precedents in Brazilian Supreme Court Decisions"
-        - "Advisor: Jorge Poco"
+        - "GPA: 7.82/10 (lowest passing grade of 5)"
         
 - title: Research Experience
   type: time_table
   contents:
-    - title: Master's and Undergraduate Researcher
-      institution: <a href="http://visualdslab.com/">Visual Data Science Lab</a>
-      year: 2020 - present
+    - title: Master's
+      institution: <a href="https://cvit.iiit.ac.in/">CVIT Lab</a>
+      year: 2022 - present
       description:
-        - Fundação Getulio Vargas
-        - "Supervisor: Jorge Poco"
-        - Development of a new Graph Neural Network (GNN) explanation method with theoretical guarantees (presented at AISTATS 2023);
-        - Employment of ML, NLP, XAI, and data visualization to create visual-analytics systems to solve legal problems (published at TVCG, presented at VIS 2022, BSc Thesis); 
-        - Incorporation of human annotations to improve NLP model explanations (under review at ACL Rolling Review, ongoing MSc thesis);
-        - Recent exploration of training data attribution methods and ways to improve them;
-        - Recent exploration of the intersection between NLP and topological data analysis in legal documents.
-    - title: Visiting Scholar (3 months)
-      institution: <a href="https://vislang.ai/">Vision, Language, and Learning Lab</a>
-      year: 2022
+        - IIIT Hyderabad
+        - "Supervisor: Anoop M Namboodiri"
+        - Introducing the FRBQ Metric for Fingerprint Image Quality Assessment (presented at ICVGIP 2023);
+        - Leveraging Age and Facial Expression Analysis to Enhance Face Image Quality Assessment; 
+        - Innovating in User Verification Collabration with UIDAI Aadhar India;
+        - Implementing VIDEO KYC for Enhanced User Experience in Manual KYC Processes through Face Recognition.
+    - title: Research Assisstant
+      institution: <a href="https://cvit.iiit.ac.in/">CVIT Lab</a>
+      year: 2021 2022
       description:
-        - "Supervisor: Vicente Ordóñez"
-        - Exploration of training data attribution methods, e.g., influence functions, and ways to improve them. These activities continued after the visit.
+        - "Supervisor: Sudipta Banerjee"
+        - Facial Demorphing Extractin Component faces from a morphed face image (Published in IJCB 2022);
 
 - title: Complete CV
   type: note
   contents:
-    - This page is a summary of my CV. For research projects, teaching experience, etc., you can download my complete CV in PDF <a href=https://lucasresck.github.io/assets/pdf/cv.pdf>here</a>.
+    - This page is a summary of my CV. For research projects, teaching experience, etc., you can download my complete CV in PDF <a href=https://pjswall.github.io/assets/pdf/my_iiit_cv.pdf>here</a>.
