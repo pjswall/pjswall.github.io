@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 📚  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🇵🇯  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://pjswall.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -67,22 +67,22 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: pjswall # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: # your X handle
+x_username: prateekj9521 # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
-telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+linkedin_username: prateek-jaiswal-a00677132 # your LinkedIn user name
+telegram_username:  # your Telegram user name
+scholar_userid: qPUaneMAAAAJ&hl=en # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0009-0008-1359-0878 # your ORCID ID
 medium_username: # your Medium username
-quora_username: # your Quora username
+quora_username: Prateek-Jaiswal-59  # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Prateek-Jaiswal-5 # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
