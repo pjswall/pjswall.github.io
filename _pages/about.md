@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Masters Student at IIIT Hyderabad.
+subtitle: MS by research student at [IIIT Hyderabad](https://www.iiit.ac.in/)
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Prateek Jaiswal, a dedicated MS by research student at [IIIT Hyderabad](https://www.iiit.ac.in/) specializing in Computer Vision and Biometrics, under the guidance of Professor [Dr. Anoop M Namboodiri](https://faculty.iiit.ac.in/~anoop/). My research revolves around the fascinating intersection of computer vision and biometrics.
+Hello, I'm Prateek Jaiswal, my specilization is Computer Vision and Biometrics, under the guidance of Professor [Dr. Anoop M Namboodiri](https://faculty.iiit.ac.in/~anoop/). My research revolves around the fascinating intersection of computer vision and biometrics.
 
 I've had the privilege of collaborating on significant projects with esteemed organizations. I contributed to the Manual VIDEO KYC and SDK benchmarking initiatives for [UIDAI](https://uidai.gov.in/), a critical player in India's digital identity landscape. Furthermore, I engaged in an exciting collaboration with Michigan State University, USA, on a Face Demorphing project, highlighting the global reach of my research endeavors.
 
