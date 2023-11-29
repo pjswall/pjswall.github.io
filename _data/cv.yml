@@ -48,8 +48,8 @@
         - Facial Demorphing Extractin Component faces from a morphed face image (Published in IJCB 2022);
 
 - title: Work Experience
-- type: time-table
-- contents:
+  type: time-table
+  contents:
     - title: Data Science Intern 
       Organization: <a href="https://www.uidai.gov.in/">UIDAI Aadhaar, India</a>
       year: May 2023 -  Oct 2021
@@ -59,7 +59,6 @@
         - "Innovating in User Verification Collabration with UIDAI Aadhar India"
         - "Implementing VIDEO KYC for Enhanced User Experience in Manual KYC Processes through Face Recognition"
         - "Conttributed in SDK benchmark project for user validation package"
-
     - title: Program Analyst
       Organization: <a href="https://www.cognizant.com/">Cognizant</a>
       year: March 2021 - Jan 2022

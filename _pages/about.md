@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: MS by research student at <a href='https://www.iiit.ac.in/'>IIIT Hyderabad</a>, India.
 
