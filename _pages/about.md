@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS by research student at [IIIT Hyderabad](https://www.iiit.ac.in/)
+subtitle: MS by research student at [IIIT Hyderabad](https://www.iiit.ac.in/), India.
 
 profile:
   align: right

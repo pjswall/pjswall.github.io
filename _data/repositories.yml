@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - pjswall
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - pjswall/Predictive-Modeling-of-Location-Data
+  - pjswall/Morphing
+  - pjswall/Youtube-Video-Face-Extraction-using-python
+  - pjswall/VIDEO_KYC
+  - pjswall/Vehicle-Counting
+  - pjswall/Face_Recognition_using_webcam
+  - pjswall/Face-Recognition-using-LDA-Fischer-faces
