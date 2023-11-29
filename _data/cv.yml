@@ -52,7 +52,7 @@
   contents:
     - title: Data Science Intern 
       Organization: <a href="https://www.uidai.gov.in/">UIDAI Aadhaar, India</a>
-      year: May 2023 -  Oct 2023
+      year: May - Oct 2023
       description:
         - Worked as a Data Science Intern in UIDAI, Bengaluru, India;
         - Worked on the project VIDEO KYC for Enhanced User Experience in Manual KYC Processes through Face Recognition;
@@ -61,11 +61,11 @@
         - Conttributed in SDK benchmark project for user validation package;
     - title: Program Analyst
       Organization: <a href="https://www.cognizant.com/">Cognizant</a>
-      year: March 2021 - Jan 2022
+      year: Mar 2021 - Jan 2022
       description:
         - Worked as a Program Analyst in Cognizant, Chennai, India;
         - Worked on Smart Ideation Project for generating creative ideas for user stories in Scrum;
-        - Designed and developed a sophisticated online trading portfolio website leveraging the power of ASP.NET and SQL Server technologies. This platform provides users with a seamless and secure trading experience;
+        - Designed and developed a sophisticated online trading portfolio website using ASP.NET and SQL Server technologies. This platform provides users with a seamless and secure trading experience;
 
 - title: Complete CV
   type: note
