@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I participated in the ICVGIP 2022 in IIT Gandhinagar. The conference was on Computer Vision and Image Processing.
+I participated in the ICVGIP 2022 in [IIT Gandhinagar](https://iitgn.ac.in/). The conference was on Computer Vision and Image Processing.
