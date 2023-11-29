@@ -5,7 +5,7 @@ permalink: /
 subtitle: MS by research student at <a href='https://www.iiit.ac.in/'>IIIT Hyderabad</a>, India.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
