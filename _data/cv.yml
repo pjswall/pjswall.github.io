@@ -48,7 +48,7 @@
         - Facial Demorphing Extractin Component faces from a morphed face image (Published in IJCB 2022);
 
 - title: Work Experience
-  type: time-table
+  type: time_table
   contents:
     - title: Data Science Intern 
       Organization: <a href="https://www.uidai.gov.in/">UIDAI Aadhaar, India</a>
