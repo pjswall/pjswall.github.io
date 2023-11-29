@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 4
 cv_pdf: my_iiit_cv.pdf
-description: Welcome to my Curriculum Vitae (CV) page! You can download my CV from <a href=https://pjswall.github.io/assets/pdf/my_iiit_cv.pdf>here</a>. 
+description: Welcome to my Curriculum Vitae (CV) page! You can download my CV from <a href=https://pjswall.github.io/assets/pdf/my_iiit_cv.pdf><u>here</u></a>. 
 ---
 
 ## Prateek Jaiswal's Curriculum Vitae
