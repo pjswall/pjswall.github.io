@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, I'm Prateek Jaiswal, my specilization is Computer Vision and Biometrics, I work under the guidance of Professor [Dr. Anoop M Namboodiri](https://faculty.iiit.ac.in/~anoop/). My research revolves around the fascinating intersection of computer vision and biometrics.
 
-I've had the privilege of collaborating on significant projects with esteemed organizations. I contributed to the Manual VIDEO KYC and SDK benchmarking initiatives for [UIDAI](https://uidai.gov.in/), a critical player in India's digital identity landscape. Furthermore, I engaged in an exciting collaboration with Michigan State University, USA, on a Face Demorphing project.
+I've had the privilege of collaborating on significant projects with esteemed organizations. I contributed to the Manual VIDEO KYC and SDK benchmarking initiatives for [UIDAI](https://uidai.gov.in/), a critical player in India's digital identity landscape. Furthermore, I engaged in an exciting collaboration with [Michigan State University](https://msu.edu/), USA, on a Face Demorphing project.
 
 In addition to my research commitments, I've also served as a Teaching Assistant and Moderator for the Summer of Computer Vision program at IIIT Hyderabad.
 
