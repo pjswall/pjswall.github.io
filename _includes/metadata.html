@@ -103,6 +103,10 @@
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
     {%- if site.research_gate_profile -%}
+        {%- capture link -%}https://leetcode.com/{{site.leetcode}}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.research_gate_profile -%}
         {%- capture link -%}https://www.researchgate.net/profile/{{site.research_gate_profile}}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
