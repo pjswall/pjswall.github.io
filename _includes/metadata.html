@@ -102,8 +102,8 @@
         {%- capture link -%}https://osf.io/{{ site.osf_id }}/{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
-    {%- if site.research_gate_profile -%}
-        {%- capture link -%}https://leetcode.com/{{site.leetcode}}{%- endcapture -%}
+    {%- if site.leetcode_id -%}
+        {%- capture link -%}https://leetcode.com/{{site.leetcode_id}}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
     {%- if site.research_gate_profile -%}
