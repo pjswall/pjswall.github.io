@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
- Passionate about innovation in Computer Vision, I welcome collaborative opportunities and discussions — reach out to me <a href="mailto:prateekj9521@gmail.com"><span style='purple;'>here</span></a>.
+ Passionate about innovation in Computer Vision, I welcome collaborative opportunities and discussions — reach out to me <a href="mailto:prateekj9521@gmail.com"><span style='color:purple;'>here</span></a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
